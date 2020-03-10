@@ -6,10 +6,11 @@
 	   
    <body>
    <title></title>
-   <meta charset="uft-8"
+   <meta charset="uft-8
      </head>
     <body>
     <h1 aling="Center">Aprendendo Hithub</h1>
+      <h1 commit no GitHub</h1>
 	</body>
    
 </HTML>
