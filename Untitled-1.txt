@@ -10,7 +10,7 @@
      </head>
     <body>
     <h1 aling="Center">Aprendendo Hithub</h1>
-      <h1 commit no GitHub</h1>
+      <h1> commit no GitHub</h1>
 	</body>
    
 </HTML>
